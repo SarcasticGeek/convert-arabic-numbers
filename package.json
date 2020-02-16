@@ -1,6 +1,6 @@
 {
   "name": "convert-arabic-numbers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert Arabic Numbers to Latin Characters",
   "main": "index.js",
   "scripts": {
